@@ -5,3 +5,6 @@ hao = []
 for i in range(1,50)
     jisuan = hao.appecd(i)
     print i*2
+
+ print hao 
+ print hao1
